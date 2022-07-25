@@ -1,0 +1,12 @@
+.App {
+    text-align: center;
+}
+.stocks {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    margin-top: 40px;
+}
+.stock {
+    flex: 1 1 50%;
+}
